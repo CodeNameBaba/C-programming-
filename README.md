@@ -11,10 +11,17 @@
 *« DIRECTIVE: EXECUTE LEGACY PROTOCOLS. »*
 </div>
 
-## 🖧 [TACTICAL_ROUTINE // MSCVC_C_SOURCE]
+> **[ CORE DOCTRINE ]**
+> `IF IT CRASHES` → `ANALYZE`
+> `IF IT BLEEDS`  → `PATCH`
+> `IF IT WORKS`   → `NEVER TOUCH IT AGAIN`
+
+<br>
+
+## 🖧 [TACTICAL_ROUTINE // MSVC_C_SOURCE]
 
 ```c
- =========================================================
+/* =========================================================
    AUTHOR  : Codenamebaba
    MODE    : BARE METAL
 ========================================================= */
@@ -29,4 +36,3 @@ int main(void) {
     puts(">> C-PROGRAMMING CORE LOADED");
     return 0;
 }
-
