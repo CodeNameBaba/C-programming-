@@ -37,33 +37,15 @@
    AUTHOR  : Codenamebaba
    MODE    : BARE METAL / CHAOTIC
 ========================================================= */
-
-#include <stdio.h>
-#include <stdint.h>
-
 int main(void) {
-    // Direct memory tampering
-    volatile uint32_t* sys_ctrl = (uint32_t*) 0xDEADBEEF;
-    
-    // Bypassing standard IO for raw syscalls
-    __asm__ __volatile__ (
-        "movq $0x1, %%rax \n\t"
-        "movq $0x1, %%rdi \n\t"
-        "leaq %0, %%rsi \n\t"
-        "syscall"
-        :
-        : "m" (">>> SYSTEM ONLINE: CHAOS PROTOCOL INITIATED <<<\n")
-    );
-
-    puts(">> MEMORY POINTERS  : CORRUPTED (OPTIMAL)");
-    puts(">> COMPILER STATUS  : TERRIFIED");
+    puts(">> SYSTEM ONLINE");
+    puts(">> MEMORY CHECK     : OK");
+    puts(">> COMPILER STATUS  : STABLE");
     puts(">> OPERATOR VERIFIED: CODENAMEBABA");
-    
-    // Extinguishing the flame
-    *sys_ctrl = 0x00000000; 
-
+    puts(">> C-PROGRAMMING CORE LOADED");
     return 0;
 }
+
 ```
 
 <div align="center">
