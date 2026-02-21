@@ -77,10 +77,6 @@ int main(void) {
 </a>
 
 <br>
-
-<video src="https://github.com/user-attachments/assets/7a66cf64-791e-476e-93e8-7a4fc7f21e5d" width="720" controls></video>
-<br>
-
 <a href="https://github.com/Codenamebaba">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=38&pause=3000&color=D4AF37&center=true&vCenter=true&width=800&lines=LET+IT+BE+SHAHWAR+THE+KING." />
 </a>
