@@ -11,27 +11,22 @@
 *« DIRECTIVE: EXECUTE LEGACY PROTOCOLS. »*
 </div>
 
-## 🖧 [TACTICAL_ROUTINE // C_SOURCE]
+## 🖧 [TACTICAL_ROUTINE // MSCVC_C_SOURCE]
 
 ```c
-// [CLASSIFIED_ARCHIVE] 
-// WARNING: CHAOTIC MEMORY ADDRESSES DETECTED
+ =========================================================
+   AUTHOR  : Codenamebaba
+   MODE    : BARE METAL
+========================================================= */
+
 #include <stdio.h>
-#include <stdint.h>
 
-void execute_payload(uint32_t *target_addr) {
-    printf("[*] Overriding system pointer at: 0x%p\n", (void*)target_addr);
-    *target_addr ^= 0xDEADBEEF; 
-    printf("[+] Payload delivered. Memory scrambled.\n");
+int main(void) {
+    puts(">> SYSTEM ONLINE");
+    puts(">> MEMORY CHECK     : OK");
+    puts(">> COMPILER STATUS  : STABLE");
+    puts(">> OPERATOR VERIFIED: CODENAMEBABA");
+    puts(">> C-PROGRAMMING CORE LOADED");
+    return 0;
 }
 
-int main() {
-    uint32_t core_sector = 0x00000000;
-    
-    printf("\n>> INITIATING OPERATION: OLD_INVENTIONS\n");
-    printf(">> ALLOCATING RESOURCES TO OPERATIVE: CODENAMEBABA...\n\n");
-    
-    execute_payload(&core_sector);
-    
-    return 0; // Exfil successful
-}
