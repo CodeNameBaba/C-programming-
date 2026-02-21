@@ -53,7 +53,7 @@ int main(void) {
 <div align="center">
 
 <br>
-<img src="https://i.pinimg.com/originals/a0/74/d3/a074d3209633e721516e838e1b64ffaf.gif" width="720" alt="Cinematic Dust">
+<img src="https://media.giphy.com/media/3o7aD2saalEv11W1Qc/giphy.gif" width="720" alt="Cinematic Dust">
 <br>
 
 <a href="https://github.com/Codenamebaba">
