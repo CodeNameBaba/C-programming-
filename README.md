@@ -13,7 +13,9 @@
 
 > **[ CORE DOCTRINE ]**
 > `IF IT CRASHES` → `ANALYZE`
+
 > `IF IT BLEEDS`  → `PATCH`
+
 > `IF IT WORKS`   → `NEVER TOUCH IT AGAIN`
 
 <br>
