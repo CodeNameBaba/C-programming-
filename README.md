@@ -86,27 +86,3 @@ int main(void) {
 </a>
 
 </div>
-    puts(">> COMPILER STATUS  : STABLE");
-    puts(">> OPERATOR VERIFIED: CODENAMEBABA");
-    puts(">> C-PROGRAMMING CORE LOADED");
-    return 0;
-}
-```
-
-<div align="center">
-
-<br>
-<img src="https://media.giphy.com/media/3o7aD2saalEv11W1Qc/giphy.gif" width="720" alt="Cinematic Dust">
-<br>
-
-<a href="https://github.com/Codenamebaba">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&pause=2000&color=A52A2A&center=true&vCenter=true&width=720&lines=Foul+Tarnished,+in+search+of+the+Elden+C...;Emboldened+by+the+flame+of+ambition...;Someone+must+extinguish+thy+flame..." />
-</a>
-
-<br>
-
-<a href="https://github.com/Codenamebaba">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=38&pause=3000&color=D4AF37&center=true&vCenter=true&width=800&lines=LET+IT+BE+SHAHWAR+THE+KING." />
-</a>
-
-</div>
