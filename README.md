@@ -1,42 +1,37 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=TASK+FORCE+141+UPLINK...;C-PROGRAMMING+ARCHIVE;MY+GOOD+OLD+INVENTIONS;BRAVO+SIX,+GOING+DARK." alt="Animated MW Header" />
-</p>
+<div align="center">
+
+# ▓▒░ C-PROGRAMMING ░▒▓
+### ☢ MY GOOD OLD INVENTIONS ☢
+
+<a href="https://github.com/Codenamebaba">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=UPLINK+ESTABLISHED...;ACCESSING+ARCHIVE:+C-PROGRAMMING...;OPERATIVE:+CODENAMEBABA;STATUS:+ONLINE" alt="Terminal Boot Sequence" />
+</a>
 
 ---
+*« DIRECTIVE: EXECUTE LEGACY PROTOCOLS. »*
+</div>
 
-### 📊 OPERATIONAL INTEL (STATS)
+## 🖧 [TACTICAL_ROUTINE // C_SOURCE]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codenamebaba&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebaba&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codenamebaba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📟 TACTICAL SOURCE [LEGACY_INVENTION.C]
 ```c
+// [CLASSIFIED_ARCHIVE] 
+// WARNING: CHAOTIC MEMORY ADDRESSES DETECTED
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdint.h>
 
-void execute_tactical_strike() {
-    // Task Force 141 memory allocation
-    void *payload_addr = malloc(0x141); 
-    
-    printf("[+] SECURE UPLINK ESTABLISHED. MEM_ADDR: %p\n", payload_addr);
-    printf("[!] DEPLOYING GOOD_OLD_INVENTIONS.BIN ...\n");
-    
-    free(payload_addr);
+void execute_payload(uint32_t *target_addr) {
+    printf("[*] Overriding system pointer at: 0x%p\n", (void*)target_addr);
+    *target_addr ^= 0xDEADBEEF; 
+    printf("[+] Payload delivered. Memory scrambled.\n");
 }
 
 int main() {
-    printf("INITIATING C-PROGRAMMING ARCHIVE...\n");
-    execute_tactical_strike();
-    return 0;
+    uint32_t core_sector = 0x00000000;
+    
+    printf("\n>> INITIATING OPERATION: OLD_INVENTIONS\n");
+    printf(">> ALLOCATING RESOURCES TO OPERATIVE: CODENAMEBABA...\n\n");
+    
+    execute_payload(&core_sector);
+    
+    return 0; // Exfil successful
 }
