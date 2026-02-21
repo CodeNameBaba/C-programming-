@@ -12,6 +12,7 @@
 </div>
 
 > **[ CORE DOCTRINE ]**
+
 > `IF IT CRASHES` → `ANALYZE`
 
 > `IF IT BLEEDS`  → `PATCH`
