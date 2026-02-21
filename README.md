@@ -8,7 +8,11 @@
 ║                                            ║
 ╚════════════════════════════════════════════╝
 
-<a href="https://github.com/Codenamebaba">
+<a href=
+
+https://github.com/user-attachments/assets/776ca585-2585-4417-9f14-bfbb8e61b103
+
+"https://github.com/Codenamebaba">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1400&color=D4AF37&background=00000000&center=true&vCenter=true&width=720&lines=GRACE+AWAKENED...;READING+ANCIENT+SCRIPT:+C-PROGRAMMING...;TARNISHED:+CODENAMEBABA;STATUS:+UNBROKEN" />
 </a>
 
@@ -41,7 +45,11 @@
 #include <stdio.h>
 
 int main(void) {
-    puts(">> SYSTEM ONLINE");
+    puts(">> SYSTEM ONL
+
+https://github.com/user-attachments/assets/7a66cf64-791e-476e-93e8-7a4fc7f21e5d
+
+INE");
     puts(">> MEMORY CHECK     : OK");
     puts(">> COMPILER STATUS  : STABLE");
     puts(">> OPERATOR VERIFIED: CODENAMEBABA");
