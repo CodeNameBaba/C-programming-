@@ -1,24 +1,4 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.pinimg.com/originals/a0/74/d3/a074d3209633e721516e838e1b64ffaf.gif" width="720" height="100" style="object-fit: cover; opacity: 0.6; mix-blend-mode: screen;">
-<a href="https://github.com/Codenamebaba">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%26weight%3D600%26size%3D18%26pause%3D5000%26color%3DA52A2A%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D720%26lines%3D%2520%3BFoul%2BTarnished,%2Bin%2Bsearch%2Bof%2Bthe%2BElden%2BC." />
-</a>
-
-
-<a href="https://github.com/Codenamebaba">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%26weight%3D600%26size%3D18%26pause%3D7000%26color%3DA52A2A%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D720%26lines%3D%2520%3BEmboldened%2Bby%2Bthe%2Bflame%2Bof%2Bambition." />
-</a>
-
-
-<a href="https://github.com/Codenamebaba">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%26weight%3D600%26size%3D18%26pause%3D9000%26color%3DA52A2A%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D720%26lines%3D%2520%3BSomeone%2Bmust%2Bextinguish%2Bthy%2Bflame." />
-</a>
-
-
-<a href="https://github.com/Codenamebaba">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%26weight%3D800%26size%3D36%26pause%3D11000%26color%3DD4AF37%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3D%2520%3BLET%2BIT%2BBE%2BSHAHWAR%2BTHE%2BKING." />
-</a>
-</div><div align="center">
 
 ╔════════════════════════════════════════════╗
 ║                                            ║
@@ -44,8 +24,8 @@
 
 > ⟁ [ CORE DOCTRINE ]
 
-> IF IT CRASHES → ANALYZE  <br>
-> IF IT BLEEDS  → PATCH  <br>
+> IF IT CRASHES → ANALYZE  
+> IF IT BLEEDS  → PATCH  
 > IF IT WORKS   → NEVER TOUCH IT AGAIN  
 
 <br>
@@ -68,3 +48,22 @@ int main(void) {
     puts(">> C-PROGRAMMING CORE LOADED");
     return 0;
 }
+```
+
+<div align="center">
+
+<br>
+<img src="https://i.pinimg.com/originals/a0/74/d3/a074d3209633e721516e838e1b64ffaf.gif" width="720" alt="Cinematic Dust">
+<br>
+
+<a href="https://github.com/Codenamebaba">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&pause=2000&color=A52A2A&center=true&vCenter=true&width=720&lines=Foul+Tarnished,+in+search+of+the+Elden+C...;Emboldened+by+the+flame+of+ambition...;Someone+must+extinguish+thy+flame..." />
+</a>
+
+<br>
+
+<a href="https://github.com/Codenamebaba">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=38&pause=3000&color=D4AF37&center=true&vCenter=true&width=800&lines=LET+IT+BE+SHAHWAR+THE+KING." />
+</a>
+
+</div>
