@@ -9,7 +9,7 @@
 ╚════════════════════════════════════════════╝
 
 <a href="https://github.com/Codenamebaba">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1400&color=D4AF37&background=00000000&center=true&vCenter=true&width=720&lines=GRACE+AWAKENED...;READING+ANCIENT+SCRIPT:+C-PROGRAMMING...;TARNISHED:+CODENAMEBABA;STATUS:+UNBROKEN" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=22&pause=1400&color=D4AF37&background=00000000&center=true&vCenter=true&width=720&lines=GRACE+AWAKENED...;READING+ANCIENT+SCRIPT:+Elden-C-PROGRAMMING...;TARNISHED:+CODENAMEBABA" />
 </a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=16&pause=999999&color=F5DEB3&background=00000000&center=true&vCenter=true&width=400&lines=✦+SITE+OF+GRACE+DISCOVERED+✦" />
