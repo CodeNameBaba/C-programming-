@@ -35,7 +35,7 @@
 ```c
 /* =========================================================
    AUTHOR  : Codenamebaba
-   MODE    : BARE METAL / CHAOTIC
+   MODE    : BARE METAL 
 ========================================================= */
 int main(void) {
     puts(">> SYSTEM ONLINE");
