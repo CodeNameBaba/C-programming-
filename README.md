@@ -59,6 +59,8 @@ int main(void) {
 
 <br>
 <a href="https://github.com/Codenamebaba">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=16&pause=999999&color=F5DEB3&background=00000000&center=true&vCenter=true&width=400&lines=LET+IT+BE+SHAHWAR+THE+KING." />
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=800&size=38&pause=3000&color=D4AF37&center=true&vCenter=true&width=800&lines=LET+IT+BE+SHAHWAR+THE+KING." />
 </a>
 
