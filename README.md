@@ -51,8 +51,7 @@ int main(void) {
 <div align="center">
 
 <br>
-<video src="https://github.com/user-attachments/assets/776ca585-2585-4417-9f14-bfbb8e61b103" width="720" controls></video>
-<br>
+
 
 <a href="https://github.com/Codenamebaba">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&pause=2000&color=A52A2A&center=true&vCenter=true&width=720&lines=Foul+Tarnished,+in+search+of+the+Elden+C...;Emboldened+by+the+flame+of+ambition...;Someone+must+extinguish+thy+flame..." />
